@@ -1,0 +1,4 @@
+V,Pedro Abreu,2.01,97.2,Rua das Acácias,33,,89180-790,Blumenau,SC,Atacante,83.2,69.3,82.2
+B,José dos Santos,1.92,98.3,Av. Brasil,123,Apto.203,89020-120,Blumenau,SC,Ala-pivô,249,87
+B, Aparecida Maria,1.70,65.7,Rua João Pessoa,500,Apt 1001,89010-200,Blumenau,SC,Armadora,232,15
+V,João da Silva,1.89,87.6,Rua das Hortências,535,,89080-890,Blumenau,SC,Levantador,89.3,51.0,62.2
